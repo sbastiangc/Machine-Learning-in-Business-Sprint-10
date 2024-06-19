@@ -1,6 +1,8 @@
 # Machine-Learning-in-Business-Sprint-10
 OilyGiant mining company - Pick the region with the highest total profit for the selected oil wells.
 
+*English version will be posted soon*
+
 # Project description
 **You work for the OilGiant mining company. Your task is to find the best place for a new well.**
 
